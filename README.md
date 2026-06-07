@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Adds path rotations and hover animations to loaded vectors.
+  name: svg-animator-utility version: 1.0 type: Repository author: VarshuAi description: >   Adds path rotations and hover animations to loaded vectors. primary_tech: CSS
 primary_tech: CSS
 ```
 
